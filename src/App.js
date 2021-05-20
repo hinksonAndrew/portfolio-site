@@ -1,4 +1,5 @@
 import './App.scss';
+import NavBar from './Components/NavBar';
 
 function App() {
   return (
@@ -7,9 +8,9 @@ function App() {
         <NavBar />
       </div>
       <div className="main-content">
-
       </div>
     </div>
+    
   )
 }
 
