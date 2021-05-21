@@ -1,0 +1,17 @@
+.imageSection{
+  display: flex;
+  margin-top: 4rem;
+  .img{
+    
+    img{
+      width: 100%;
+    }
+  }
+
+  .about-info{
+    margin-left: 2rem;
+    h4{
+       font-size: 2rem;
+    }
+  }
+}
